@@ -1,0 +1,39 @@
+{
+
+  "test":
+
+  {
+    "username":"angular",
+    "password":"password"
+    },
+
+
+
+    "testsiteurl":"http://gmail.com",
+  
+    "locators":{
+  
+      "loginpage":{
+  
+        "username":"//*[@id='identifierId']",
+        "next":"//*[@id='identifierNext']/content/span"
+  
+  
+      }
+  
+  
+  
+    },
+  
+    "userdetails":{
+  
+      "username1":"ankur.tyagi@globant.com",
+      "password1":"Ankur123",
+      "username2":"enggvick@gmail.com",
+      "password2":"Vickey123"
+  
+    }
+  
+  
+  
+  }

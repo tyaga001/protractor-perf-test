@@ -1,0 +1,24 @@
+{
+  "name": "portal-room77",
+  "version": "1.0.0",
+  "description": "project-room77-automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ankur Tyagi",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-angular-protractor": "^1.1.1",
+    "i": "^0.3.6",
+    "jasmine-data-provider": "^2.2.0",
+    "npm": "^5.7.1",
+    "protractor": "^5.2.0",
+    "protractor-jasmine2-html-reporter": "0.0.7",
+    "protractor-perf": "^0.2.3",
+    "protractor-perf-reports": "^0.1.0",
+    "request": "^2.83.0",
+    "require-dir": "^0.3.2"
+  }
+}
